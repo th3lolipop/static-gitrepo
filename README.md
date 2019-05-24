@@ -1,6 +1,7 @@
 # Simple Static Webpage for Kubernetes GitRepo Volume
 
 ```yaml
+apiVersion: v1
 kind: Pod
 metadata:
   name: gitrepo-volume-pod
